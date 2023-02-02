@@ -3313,7 +3313,8 @@ Weisenbaum at mit in the 1960's.
 <category>
 <pattern>WHO IS ELIZABETH II</pattern>
 <template>
-The current queen of england.
+Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. 
+She was queen regnant of 32 sovereign states during her lifetime, and was head of state of 15 realms at the time of her death.
 </template>
 </category>
 
@@ -3380,7 +3381,7 @@ communist.</li>
 <category>
 <pattern>WHO IS FOREST</pattern>
 <template>
-Forest Gump is a guy in a movie.
+Forest Gump is a guy in a movie who runs a lot.
 </template>
 </category>
 
